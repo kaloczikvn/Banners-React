@@ -1,0 +1,19 @@
+.zones-page {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  flex-flow: column;
+
+  .zones {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 25px;
+    width: 80vw;
+    height: 50vh;
+    
+    .zone {
+      text-transform: uppercase;
+      font-size: 18px;
+    }
+  }
+}

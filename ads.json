@@ -1,0 +1,372 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "zone 1",
+      "slug": "zone-1",
+      "created_at": "2023-03-07 09:22:59",
+      "updated_at": "2023-03-07 09:22:59",
+      "banners": [
+        {
+          "banner": {
+            "id": 1,
+            "name": "pic1",
+            "type": "image",
+            "filename": "live-hosted-banner.png",
+            "_links": {
+              "download": {
+                "href": "https://carouselsaddlery.com/wp-content/uploads/2014/06/16-9-dummy-image2-889x500.jpg"
+              }
+            }
+          },
+          "sort": null,
+          "display_time": 1
+        },
+        {
+          "banner": {
+            "id": 3,
+            "name": "pic3",
+            "type": "image",
+            "filename": "christmas_green.png",
+            "_links": {
+              "download": {
+                "href": "https://computerhistory.org/wp-content/uploads/2019/06/16-9-dummy-image4.jpg"
+              }
+            }
+          },
+          "sort": null,
+          "display_time": 2
+        },
+        {
+          "banner": {
+            "id": 5,
+            "name": "pic4",
+            "type": "image",
+            "filename": "Emo.jpg",
+            "_links": {
+              "download": {
+                "href": "https://nhsuk-prototype-kit.azurewebsites.net/images/placeholder-image-16-9.jpg"
+              }
+            }
+          },
+          "sort": 3,
+          "display_time": 3
+        },
+        {
+          "banner": {
+            "id": 7,
+            "name": "pic4",
+            "type": "image",
+            "filename": "Emo.jpg",
+            "_links": {
+              "download": {
+                "href": "https://images.unsplash.com/photo-1472457897821-70d3819a0e24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c21hbGx8ZW58MHx8MHx8&w=1000&q=80"
+              }
+            }
+          },
+          "sort": 3,
+          "display_time": 4
+        },
+        {
+          "banner": {
+            "id": 9,
+            "name": "pic4",
+            "type": "image",
+            "filename": "Emo.jpg",
+            "_links": {
+              "download": {
+                "href": "https://png.pngtree.com/png-vector/20201128/ourmid/pngtree-3d-small-people-cooperation-png-image_2457456.jpg"
+              }
+            }
+          },
+          "sort": 3,
+          "display_time": 5
+        },
+        {
+          "banner": {
+            "id": 11,
+            "name": "pic4",
+            "type": "image",
+            "filename": "Emo.jpg",
+            "_links": {
+              "download": {
+                "href": "https://media.istockphoto.com/id/1135773946/photo/full-length-portrait-of-young-man-standing-on-white-background.jpg?s=612x612&w=0&k=20&c=1xRxIgrFYHBrQ5K4QcfKresPqbOOt8K3UcnkEAgz4SU="
+              }
+            }
+          },
+          "sort": 3,
+          "display_time": 6
+        },
+        {
+          "banner": {
+            "id": 13,
+            "name": "pic4",
+            "type": "image",
+            "filename": "Emo.jpg",
+            "_links": {
+              "download": {
+                "href": "https://images.unsplash.com/photo-1606646677098-46b8141f4da5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGVyc29uJTIwc3RhbmRpbmd8ZW58MHx8MHx8&w=1000&q=80"
+              }
+            }
+          },
+          "sort": 3,
+          "display_time": 7
+        },
+        {
+          "banner": {
+            "id": 15,
+            "name": "pic4",
+            "type": "image",
+            "filename": "Emo.jpg",
+            "_links": {
+              "download": {
+                "href": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"
+              }
+            }
+          },
+          "sort": 3,
+          "display_time": 8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "zone 2",
+      "slug": "zone-2",
+      "created_at": "2023-03-07 09:22:59",
+      "updated_at": "2023-03-07 09:22:59",
+      "banners": [
+        {
+          "banner": {
+            "id": 1,
+            "name": "pic1",
+            "type": "image",
+            "filename": "live-hosted-banner.png",
+            "_links": {
+              "download": {
+                "href": "https://carouselsaddlery.com/wp-content/uploads/2014/06/16-9-dummy-image2-889x500.jpg"
+              }
+            }
+          },
+          "sort": null,
+          "display_time": 1
+        },
+        {
+          "banner": {
+            "id": 3,
+            "name": "pic3",
+            "type": "image",
+            "filename": "christmas_green.png",
+            "_links": {
+              "download": {
+                "href": "https://computerhistory.org/wp-content/uploads/2019/06/16-9-dummy-image4.jpg"
+              }
+            }
+          },
+          "sort": null,
+          "display_time": 2
+        },
+        {
+          "banner": {
+            "id": 5,
+            "name": "pic4",
+            "type": "image",
+            "filename": "Emo.jpg",
+            "_links": {
+              "download": {
+                "href": "https://nhsuk-prototype-kit.azurewebsites.net/images/placeholder-image-16-9.jpg"
+              }
+            }
+          },
+          "sort": 3,
+          "display_time": 3
+        },
+        {
+          "banner": {
+            "id": 7,
+            "name": "pic4",
+            "type": "image",
+            "filename": "Emo.jpg",
+            "_links": {
+              "download": {
+                "href": "https://images.unsplash.com/photo-1472457897821-70d3819a0e24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c21hbGx8ZW58MHx8MHx8&w=1000&q=80"
+              }
+            }
+          },
+          "sort": 3,
+          "display_time": 4
+        },
+        {
+          "banner": {
+            "id": 9,
+            "name": "pic4",
+            "type": "image",
+            "filename": "Emo.jpg",
+            "_links": {
+              "download": {
+                "href": "https://png.pngtree.com/png-vector/20201128/ourmid/pngtree-3d-small-people-cooperation-png-image_2457456.jpg"
+              }
+            }
+          },
+          "sort": 3,
+          "display_time": 5
+        },
+        {
+          "banner": {
+            "id": 11,
+            "name": "pic4",
+            "type": "image",
+            "filename": "Emo.jpg",
+            "_links": {
+              "download": {
+                "href": "https://media.istockphoto.com/id/1135773946/photo/full-length-portrait-of-young-man-standing-on-white-background.jpg?s=612x612&w=0&k=20&c=1xRxIgrFYHBrQ5K4QcfKresPqbOOt8K3UcnkEAgz4SU="
+              }
+            }
+          },
+          "sort": 3,
+          "display_time": 6
+        },
+        {
+          "banner": {
+            "id": 13,
+            "name": "pic4",
+            "type": "image",
+            "filename": "Emo.jpg",
+            "_links": {
+              "download": {
+                "href": "https://images.unsplash.com/photo-1606646677098-46b8141f4da5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGVyc29uJTIwc3RhbmRpbmd8ZW58MHx8MHx8&w=1000&q=80"
+              }
+            }
+          },
+          "sort": 3,
+          "display_time": 7
+        },
+        {
+          "banner": {
+            "id": 15,
+            "name": "pic4",
+            "type": "image",
+            "filename": "Emo.jpg",
+            "_links": {
+              "download": {
+                "href": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"
+              }
+            }
+          },
+          "sort": 3,
+          "display_time": 8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "zone 3",
+      "slug": "zone-3",
+      "created_at": "2023-03-07 09:22:59",
+      "updated_at": "2023-03-07 09:22:59",
+      "banners": [
+        {
+          "banner": {
+            "id": 1,
+            "name": "pic1",
+            "type": "image",
+            "filename": "live-hosted-banner.png",
+            "_links": {
+              "download": {
+                "href": "https://carouselsaddlery.com/wp-content/uploads/2014/06/16-9-dummy-image2-889x500.jpg"
+              }
+            }
+          },
+          "sort": null,
+          "display_time": 3
+        },
+        {
+          "banner": {
+            "id": 2,
+            "name": "pic3",
+            "type": "image",
+            "filename": "christmas_green.png",
+            "_links": {
+              "download": {
+                "href": "https://computerhistory.org/wp-content/uploads/2019/06/16-9-dummy-image4.jpg"
+              }
+            }
+          },
+          "sort": null,
+          "display_time": 5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "zone 4",
+      "slug": "zone-4",
+      "created_at": "2023-03-07 09:22:59",
+      "updated_at": "2023-03-07 09:22:59",
+      "banners": [
+        {
+          "banner": {
+            "id": 1,
+            "name": "pic1",
+            "type": "image",
+            "filename": "live-hosted-banner.png",
+            "_links": {
+              "download": {
+                "href": "https://carouselsaddlery.com/wp-content/uploads/2014/06/16-9-dummy-image2-889x500.jpg"
+              }
+            }
+          },
+          "sort": null,
+          "display_time": 3
+        },
+        {
+          "banner": {
+            "id": 2,
+            "name": "pic3",
+            "type": "image",
+            "filename": "christmas_green.png",
+            "_links": {
+              "download": {
+                "href": "https://computerhistory.org/wp-content/uploads/2019/06/16-9-dummy-image4.jpg"
+              }
+            }
+          },
+          "sort": null,
+          "display_time": 5
+        },
+        {
+          "banner": {
+            "id": 3,
+            "name": "vid",
+            "type": "video",
+            "filename": "Stars%20H264.mp4",
+            "_links": {
+              "download": {
+                "href": "https://archive.org/download/Starry_Sky_Time_Lapse/Stars%20H264.mp4"
+              }
+            }
+          },
+          "sort": null,
+          "display_time": 40
+        }
+      ]
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "http://api.cq2-test.local/ad/v2/zones?expand=banners&page=1"
+    },
+    "first": {
+      "href": "http://api.cq2-test.local/ad/v2/zones?expand=banners&page=1"
+    },
+    "last": {
+      "href": "http://api.cq2-test.local/ad/v2/zones?expand=banners&page=1"
+    }
+  },
+  "_meta": {
+    "totalCount": 1,
+    "pageCount": 1,
+    "currentPage": 1,
+    "perPage": 20
+  }
+}

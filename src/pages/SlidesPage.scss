@@ -1,0 +1,12 @@
+.close-button {
+  position: absolute;
+  left: 25px;
+  top: 25px;
+  z-index: 5;
+  opacity: .25;
+  cursor: pointer;
+
+  svg {
+    width: 25px;
+  }
+}
